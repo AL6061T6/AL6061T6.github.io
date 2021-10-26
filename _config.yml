@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "6061T6"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I sew. I make. I used to draw. I would upload my artworks and making process here."
   location         : "South Korea"
   email            :
   links:
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/t6_6061"
+      # url: "https://github.com/t6_6061"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/t6_6061"
 
 # Site Footer
 footer:
