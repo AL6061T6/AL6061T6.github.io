@@ -1,7 +1,27 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Project"
+    url: /project/
+  - title: "How to make"
+    url: /how_to_make/
+  - title: "Search"
+    url: /search/
+
+docs1:
+  - title: "Project_List"
+    children:
+      - title: "Making Vtuber Plush"
+        url: /Making_Vtuber_Plush/
+      - title: "Suenaga Mirai Project"
+        url: /Suenaga_Mirai_Project/
+      
+
+docs2:
+  - title: "How to make list"
+    children:
+      - title: "test_category2"
+        url: /test_Category/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
