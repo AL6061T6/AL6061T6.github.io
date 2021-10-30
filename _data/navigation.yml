@@ -1,25 +1,25 @@
 # main links
 main:
-  - title: "Project"
-    url: /project/
+  - title: "Smart Doll"
+    url: /Smart_Doll/
   - title: "How to make"
     url: /how_to_make/
   - title: "Search"
     url: /search/
 
 docs1:
-  - title: "Project_List"
+  - title: "末永みらい"
     children:
-      - title: "Making Vtuber Plush"
-        url: /Making_Vtuber_Plush/
-      - title: "Suenaga Mirai Project"
+      - title: "Unboxing"
+        url: /Mirai-Suneaga-Unboxing/
+      - title: "Making Torso(Soon After)"
         url: /Suenaga_Mirai_Project/
       
 
 docs2:
-  - title: "How to make list"
+  - title: "How to make"
     children:
-      - title: "test_category2"
+      - title: "Smart Doll Torso(Soon After)"
         url: /test_Category/
 
   # - title: "About"
