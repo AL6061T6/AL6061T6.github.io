@@ -13,7 +13,7 @@ sidebar:
 
 ### Unboxing Review ~Mirai Suenaga 
 
-![000](../images/2021-10-30-Mirai Suneaga Unboxing/000-16355947266611.png){: .align-center}
+<img src="../images/2021-10-30-Mirai Suneaga Unboxing/000-16355947266611.png" alt="000" />
 
 ------
 
