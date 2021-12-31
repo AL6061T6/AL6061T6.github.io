@@ -1,38 +1,50 @@
 ---
+title: "6061T6"
 layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  #overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Parttern Download"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  I provide compeletely "Free Pattern" for you sewing project.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "어짜고"
-    title: "저짜고"
-    excerpt: "설명란"
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "어짜고"
-    title: "저짜고"
-    excerpt: "설명란"
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "어짜고"
-    title: "저짜고"
-    excerpt: "설명란"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
----
+  overlay_image: /images/Index/Header.jpg
+  caption: "6061 Craft"
 
-{% include feature_row %}
+excerpt: 
+  High Strength, High Precision High Quality Aluminum Extrusion
+  It's 6061T6
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+ 
+feature_row:
+  - image_path: images/Index/Profile.jpg
+    alt: "어짜고"
+    title: "Profile"
+---
+<!-- dash 문자 "---"가 feature row의 끝이란걸 알려주는 거입니다. 없어지면 오류가 나요.-->
+
+{% include feature_row type="center" %}
+<!-- Featrue 정렬을 어떻게 할건지-->
+
+
+<center><font size="6"> 
+I love making things and Animetic character <br>
+Mainly I make clothing for my doll and soemtimes draw.<br><br>
+</font></center>
+
+# &lt;Carrer&gt; 
+
+'14.9.1 ~ '16.5.31 : Duty for Korean Army, (Sergeant, Defense Security Unit) <br>
+'13.3.1 ~ '20.2.5 : Graduate from Chung-Ang University (Mechanical Engineering) <br>
+'20.1.6 ~ Now : Robot Associate for LG Electronics (CAE & Robot Solution) <br><br>
+
+
+I decided my major as mechanical engineering because I was interested in physics and I thought I could make anything I want if I major in engineering.<br>
+But things are not that easy, I'm not that super smart to be a great engineer and mechanical engineering was not really for making something, rather it was more for dynamics. <br>
+Now I'm working as Robot Associate and continue to do my sewing or making project,<br>
+and dream about to get a job related with making any kawaii things, like doll.<br><br>
+
+# &lt;Main Project&gt; 
+
+
