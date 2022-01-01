@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mirai Plush"
-categories: "Craft_with_SmartDoll"
+categories:
 #tag: [Doll, Mirai_Suenaga, Unboxing]
 #toc: #true #true로 시키면 목차가 만들어 집니다.
 author_profile: false #false 시키면 저자 프로파일 사라집니다. true면 켜져요.
