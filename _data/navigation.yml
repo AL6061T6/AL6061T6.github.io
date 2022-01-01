@@ -1,26 +1,43 @@
 # main links
 main:
   - title: "Smart Doll"
-    url: /Smart_Doll/
-  - title: "How to make"
-    url: /how_to_make/
+    url: /Craft_with_SmartDoll/
   - title: "Search"
     url: /search/
 
 docs1:
-  - title: "末永みらい"
+  - title: "Craft with SmartDoll"
     children:
-      - title: "Unboxing"
-        url: /smart_doll/Mirai-Suneaga-Unboxing/
-      - title: "Making Torso(Soon After)"
-        url: /Suenaga_Mirai_Project/
+      - title: "Wardrobe"
+        url: /Craft_with_SmartDoll/Wardrobe/
+
+      - title: "Attache Case"
+        url: /Craft_with_SmartDoll/Attache-Case/
+
+      - title: "SnowFlakes Cape"
+        url: /Craft_with_SmartDoll/Snowflakes-Cape/
+
+      - title: "Classic Inner Dress"
+        url: /Craft_with_SmartDoll/Classic-Inner-Dress/
+
+      - title: "School Outfits"
+        url: /Craft_with_SmartDoll/School-Outfits/
+
+      - title: "Sewing Torso"
+        url: /Craft_with_SmartDoll/Sewing-Torso/
+
+      - title: "Mirai Unboxing"
+        url: /Craft_with_SmartDoll/Mirai-Unboxing/
+
+      - title: "Mirai Plush"
+        url: /Craft_with_SmartDoll/Mirai-Plush/
       
 
-docs2:
-  - title: "How to make"
-    children:
-      - title: "Smart Doll Torso(Soon After)"
-        url: /test_Category/
+# docs2:
+#   - title: "How to make"
+#     children:
+#       - title: "Smart Doll Torso(Soon After)"
+#         url: /test_Category/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
