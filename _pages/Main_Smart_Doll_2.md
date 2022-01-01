@@ -65,3 +65,4 @@ feature_row:
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row type="left" %}
 
+###  < Previous 1 / [2](/Craft_with_Smart_Doll_2) [Next](/Craft_with_Smart_Doll_2) >

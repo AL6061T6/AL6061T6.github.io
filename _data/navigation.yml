@@ -2,6 +2,8 @@
 main:
   - title: "Smart Doll"
     url: /Craft_with_SmartDoll/
+  - title: "Contact"
+    url: /Contact/
   - title: "Search"
     url: /search/
 

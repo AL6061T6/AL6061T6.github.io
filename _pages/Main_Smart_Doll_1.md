@@ -14,72 +14,72 @@ feature_row8:
     alt: "Wardrobe_Thumbnail"
     title: "Wardrobe"
     excerpt: Wardrobe.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Wardrobe/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row7:
   - image_path: images/Main_Smart_Doll/Attache.jpg
     alt: "Attache_Thumbnail"
     title: "Attache Case"
     excerpt: My own Mirai carry.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Attache-Case/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row6:
   - image_path: images/Main_Smart_Doll/Cape.jpg
     alt: "Cape_Thumbnail"
     title: "Snowflakes Cape"
     excerpt: Lovely Cape :)
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Snowflakes-Cape/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row5:
   - image_path: images/Main_Smart_Doll/Classic Inner Dress.jpg
     alt: "Classic_Inner_Dress_Thumbnail"
     title: "Classic Inner Dress"
     excerpt: My style classic dress for Mirai.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Classic-Inner-Dress/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row4:
   - image_path: images/Main_Smart_Doll/Sailor.jpg
     alt: "Sailor_Thumbnail"
     title: "School Outfits"
     excerpt: Her mascot outifts.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/School-Outfits/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row3:
   - image_path: images/Main_Smart_Doll/Sewing_Torso.jpg
     alt: "Sewing_Torso_Thumbnail"
     title: "Sewing_Torso"
     excerpt: Before pattern making.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Sewing-Torso/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row2:
   - image_path: images/Main_Smart_Doll/Mirai_Unboxing.jpg
     alt: "Mirai_Unboxing_Thumbnail"
     title: "Mirai Unboxing"
     excerpt: My girl just has arrived.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Mirai-Unboxing/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 feature_row:
   - image_path: images/Main_Smart_Doll/Mirai_Plush_Thumbnail.png
     alt: "Mirai_Plush_Thumbnail"
     title: "Mirai Plush"
     excerpt: Ready for welcoming Mirai.
-    url: "#test-link"
+    url: /Craft_with_SmartDoll/Mirai-Plush/
     btn_label: "Read"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 
 

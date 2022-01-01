@@ -95,7 +95,7 @@
 /* Success notice */
 
 .notice--success {
-  @include notice($success-color);
+  @include notice(#a2d3ad);
 }
 
 /* Danger notice */

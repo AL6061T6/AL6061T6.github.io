@@ -20,11 +20,11 @@ excerpt:
 feature_row:
   - image_path: images/Index/Profile.jpg
     alt: "Profile1"
-    title: "6061T6"
-    excerpt: <font size="5">I love making things and Animetic character.<br>I'm looking for the way to let making a kawaii things as my job.<br>    Mainly, I make clothing or props for my doll(Mirai, SmartDoll) and soemtimes draw. </font><br>
-    url: "#test-link"
+    title: "<u>6061T6</u>"
+    excerpt: I love making things and animetic character.<br>I'm looking for the way to let making a kawaii things as my job.<br>Mainly, I make clothing or props for my doll(Mirai, SmartDoll) and soemtimes draw. <br> Belows are the details
+    url: "/Contact/"
     btn_label: "Contact Info."
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     
 
 feature_row2:
@@ -40,128 +40,127 @@ feature_row2:
 {% include feature_row type="left" %}
 <!-- Featrue 정렬을 어떻게 할건지-->
 
-## &lt;Profile&gt; 
-> <font size="5"> <b>
+<b><font size ="5"> &lt;Profile&gt;  </font></b>
+{: .notice--success}
+<blockquote> <b>
 ㅁ Username </b>: 6061T6 <br>
 <b>ㅁ Living </b>: In Seoul, Republic of Korea<br>
-<b>ㅁ Language </b>: 日本語 / ENG / 한국어 <br></font>
+<b>ㅁ Language </b>: 한국어 / 日本語 / ENG  <br>
+</blockquote>
 
-<!--
-<font size="5">
-I love making things and Animetic character. <br>
-I'm looking for the way to let making a kawaii things as my job. <br>
-Mainly, I make clothing or props for my doll(Mirai, SmartDoll) and soemtimes draw. <br><br>
-</font>
--->
-## &lt;Carrer&gt; 
+
+<b><font size ="5"> &lt;Career&gt; </font></b>
+{: .notice--success}
 
 >
-'14.9.1 ~ '16.5.31 : Duty for Korean Army. (Sergeant, Defense Security Unit) <br>
-'13.3.1 ~ '20.2.5 : Graduate from Chung-Ang Univ. (Mechanical Engineering) <br>
-'20.1.6 ~ Now : Robot Research Associate for LG Electronics. (CAE & Robot Solution) <br>
+<b>'14.9.1 ~ '16.5.31</b> : Duty for Korean Army. (Sergeant, Defense Security Unit) <br>
+<b>'13.3.1 ~ '20.2.5</b> : Graduate from Chung-Ang Univ. (Mechanical Engineering) <br>
+<b>'20.1.6 ~ Now</b> : Robot Research Associate for LG Electronics. (CAE & Robot Solution) <br>
+ 
+<b><font size ="5">  &lt;Previous Project&gt;  </font></b>
+{: .notice--success}
 
-## &lt;Previous Project&gt; 
 
-<table class="center" style=" text-align: center;" >
+<div style="margin-left:2em; margin-right:2em;">
+<table class="center" style="text-align: center; ">
   <tr>
-    <td><img alt="Project_1" src="../images/Index/Project_1.jpg" style="height:700px;"/> 
-    <br> Mirai Plush & School Outfits </td>
-    <td><img alt="Project_2" src="../images/Index/Project_2.jpg" style="height:700px;" />
-    <br> Classic Inner Dress </td>
-    <td><img alt="Project_3" src="../images/Index/Project_3.jpg" style="height:700px;" />
-    <br> Snow flakes Cpae </td>
+    <td><img alt="Project_1" src="../images/Index/Project_1.jpg" style="height:30em;border-radius:10px;"/> 
+    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/School-Outfits/">Mirai Plush & School Outfits</a></font></b> </td>
+    <td><img alt="Project_2" src="../images/Index/Project_2.jpg" style="height:30em;border-radius:10px;" />
+    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/Classic-Inner-Dress/"> Classic Inner Dress </a></font></b> </td>
+    <td><img alt="Project_3" src="../images/Index/Project_3.jpg" style="height:30em;border-radius:10px;" />
+    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/SnowFlakes-Cape/"> Snow flakes Cpae </a></font></b> </td>
   </tr>
 </table>
+</div>
 
+<div style="margin-left:2em; margin-right:2em;">
+<table class="center" style=" text-align: center;">
+  <tr>
+    <td><img alt="Project_4" src="../images/Index/Project_4.jpg" style="height:25em; border-radius:10px;"/>
+    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/Attache-Case/"> Attache Case for Mirai </a></font></b> </td>
+    <td><img alt="Project_5" src="../images/Index/Project_5.jpg" style="height:25em; border-radius:10px; "/>
+    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/Wardrobe/"> Closet for Mirai </a></font></b> </td>
+  </tr>
+</table>
+</div>
 
+<b><font size ="5"> &lt;Using Tool(Software)&gt;</font></b>
+{: .notice--success}
+
+<div style="margin-left:2em; margin-right:2em;">
 <table class="center" style="text-align: center;">
-  <tr>
-    <td><img alt="Project_4" src="../images/Index/Project_4.jpg" style="height:500px;"/>
-    <br> Attache Case for Mirai </td>
-    <td><img alt="Project_5" src="../images/Index/Project_5.jpg" style="height:500px;"/>
-    <br> Closet for Mirai </td>
-  </tr>
-</table>
-
-## &lt;Using Tool(Software)&gt; 
-
-<table class="center">
  <tr>
   <td>
-    <figure>
-      <img src="../images/Index/Tool_Blender_Modeling.jpg" style="height:200px;">
-      <b><u><font size=6>Blender</font></u> &nbsp;&nbsp;<br>(3D Modeling & 2D Draft Pattern)</b>
-      <figcaption></figcaption>
-    </figure>
+      <img src="../images/Index/Tool_Blender_Modeling.jpg" style="height:12em; border-radius:10px;">
+      <b><u><font size=4>Blender</font></u> &nbsp;&nbsp;<br>(3D Modeling & 2D Draft Pattern)</b>
   </td>
   <td>
-    <figure>
-      <img src="../images/Index/Tool_Nanocad.jpg" style="height:200px;">
-      <b><u><font size=6>Nanocad5</font></U> &nbsp;&nbsp;<br>(2D Pattern Drawing)</b>
-      <figcaption></figcaption>
-    </figure>
+      <img src="../images/Index/Tool_Nanocad.jpg" style="height:12em; border-radius:10px;">
+      <b><u><font size=4>Nanocad5</font></U> &nbsp;&nbsp;<br>(2D Pattern Drawing)</b>
   </td>
   <td>
-    <figure>
-      <img src="../images/Index/Tool_Inkstitch.jpg" style="height:200px;">
-      <b><u><font size=6>Inkstitch</font></U> &nbsp;&nbsp;<br>(Emboridery Pattern)</b>
-      <figcaption></figcaption>
-    </figure>
+      <img src="../images/Index/Tool_Inkstitch.jpg" style="height:12em; border-radius:10px;">
+      <b><u><font size=4>Inkstitch</font></U> &nbsp;&nbsp;<br>(Emboridery Pattern)</b>
   </td>
   </tr>
 </table>
+</div>
 
-## &lt;Using Tool(Hardware)&gt; 
 
-<table class="center">
+<b><font size ="5"> &lt;Using Tool(Hardware)&gt; </font></b>
+{: .notice--success}
+
+<div style="margin-left:2em; margin-right:2em;">
+<table style=" text-align: center;">
  <tr>
   <td>
-    <figure>
-      <img src="../images/Index/Tool_NV180.jpg" style="height:200px;">
-      <b><u><font size=6>NV-180</font></u> &nbsp;&nbsp;<br>(Sewing & Emobroidery)</b>
-      <figcaption></figcaption>
-    </figure>
+    <img src="../images/Index/Tool_NV180.jpg" style="height:12em;border-radius:10px;">
+    <b><u><font size=4> NV-180</font></u></b>
+    <br>(Sewing & Emobroidery)
   </td>
   <td>
-    <figure>
-      <img src="../images/Index/Tool_snapmaker.jpg" style="height:200px;">
-      <b><u><font size=6>Snapmaker</font></U> &nbsp;&nbsp;<br>(3Dprinting & LaserCutting)</b>
-      <figcaption></figcaption>
-    </figure>
+    <img src="../images/Index/Tool_snapmaker.jpg" style="height:12em;border-radius:10px;">
+    <b><u><font size=4> Snapmaker</font></u></b>
+    <br>(3Dprinting & LaserCutting)
   </td>
   <td>
-    <figure>
-      <img src="../images/Index/Toll_2540D.jpg" style="height:200px;">
-      <b><u><font size=6>2540D</font></U> &nbsp;&nbsp;<br>(Overlock & Interlock)</b>
-      <figcaption></figcaption>
-    </figure>
+    <img src="../images/Index/Toll_2540D.jpg" style="height:12em;border-radius:10px;">
+    <b><u><font size=4>2540D</font></u></b>
+    <br>(Overlock & Interlock)
   </td>
   </tr>
 </table>
+</div>
 
 
-## &lt;ETC&gt; 
+<b><font size ="5"> &lt;ETC&gt;  </font></b>
+{: .notice--success}
 
+<div style="margin-left:2em; margin-right:2em;">
 <table class="center" style=" text-align: center;">
  <tr>
   <td>
-    <img src="../images/Index/ETC_draw.jpg" style="height:400px;">
-    <font size=5>Rarely draw</font>
+    <img src="../images/Index/ETC_draw.jpg" style="height:400px; border-radius:10px;">
+    <font size=4>Rarely draw</font>
     <br>(Pixiv #29578542)
   </td>
   <td>
-    <img src="../images/Index/ETC_Plush_2.jpg" style="height:400px;">
-    <font size=5>Vtbuer plushies</font>
+    <img src="../images/Index/ETC_Plush_2.jpg" style="height:400px;border-radius:10px;">
+    <font size=4>Vtbuer plushies</font>
     <br>(Natsumi Moe / Comdost Art)
   </td>
   <td>
-    <img src="../images/Index/ETC_Plush.jpg" style="height:400px;">
-    <font size=5>Vtbuer plushies</font>
+    <img src="../images/Index/ETC_Plush.jpg" style="height:400px;border-radius:10px;">
+    <font size=4>Vtbuer plushies</font>
     <br>(kson)
   </td>
   </tr>
 </table>
+</div>
 
+<div style="margin-left:2em; margin-right:2em;">
+<br>
 I was shy boy who cares about anything too much and indulged in Japanese anime. <Br>
 I expected mechanical engineering would help me to get a mediocre life which is my favorite subject, and I selected it as my major.<br>
 Now I'm working as robot research associate but,<b><i> start feeling to get a job related with what I really like, something animetic, or kwaii things, more than just making ends meet.</I></b><br>
@@ -185,4 +184,4 @@ Still I don't know what kind of activity could gives me reasonable protifs or he
 But, I cannot just do nothing,so I started to make outifts of Mirai with my all of skill I gott from previous fanart works, and do social media.<br>
 I know I could not make it as much as another person had done, I hope I could also find my way to make sewing as part of my earnings.
 
-{% include feature_row id="feature_row2" type="left" %}
+</div>
