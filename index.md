@@ -65,11 +65,11 @@ feature_row2:
 <table class="center" style="text-align: center; ">
   <tr>
     <td><img alt="Project_1" src="../images/Index/Project_1.jpg" style="height:30em;border-radius:10px;"/> 
-    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/School-Outfits/">Mirai Plush & School Outfits</a></font></b> </td>
+    <br><b><font size="4"> <a href="/craft_with_smartdoll/School-Outfits/">Mirai Plush & School Outfits</a></font></b> </td>
     <td><img alt="Project_2" src="../images/Index/Project_2.jpg" style="height:30em;border-radius:10px;" />
-    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/Classic-Inner-Dress/"> Classic Inner Dress </a></font></b> </td>
+    <br><b><font size="4"> <a href="/craft_with_smartdoll/Classic-Inner-Dress/"> Classic Inner Dress </a></font></b> </td>
     <td><img alt="Project_3" src="../images/Index/Project_3.jpg" style="height:30em;border-radius:10px;" />
-    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/SnowFlakes-Cape/"> Snow flakes Cpae </a></font></b> </td>
+    <br><b><font size="4"> <a href="/craft_with_smartdoll/SnowFlakes-Cape/"> Snow flakes Cpae </a></font></b> </td>
   </tr>
 </table>
 </div>
@@ -78,9 +78,9 @@ feature_row2:
 <table class="center" style=" text-align: center;">
   <tr>
     <td><img alt="Project_4" src="../images/Index/Project_4.jpg" style="height:25em; border-radius:10px;"/>
-    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/Attache-Case/"> Attache Case for Mirai </a></font></b> </td>
+    <br><b><font size="4"> <a href="/craft_with_smartdoll/Attache-Case/"> Attache Case for Mirai </a></font></b> </td>
     <td><img alt="Project_5" src="../images/Index/Project_5.jpg" style="height:25em; border-radius:10px; "/>
-    <br><b><font size="4"> <a href="/Craft_with_SmartDoll/Wardrobe/"> Closet for Mirai </a></font></b> </td>
+    <br><b><font size="4"> <a href="/craft_with_smartdoll/Wardrobe/"> Closet for Mirai </a></font></b> </td>
   </tr>
 </table>
 </div>

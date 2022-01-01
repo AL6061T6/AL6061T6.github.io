@@ -11,28 +11,28 @@ docs1:
   - title: "Craft with SmartDoll"
     children:
       - title: "Wardrobe"
-        url: /Craft_with_SmartDoll/Wardrobe/
+        url: /craft_with_smartdoll/Wardrobe/
 
       - title: "Attache Case"
-        url: /Craft_with_SmartDoll/Attache-Case/
+        url: /craft_with_smartdoll/Attache-Case/
 
       - title: "SnowFlakes Cape"
-        url: /Craft_with_SmartDoll/Snowflakes-Cape/
+        url: /craft_with_smartdoll/Snowflakes-Cape/
 
       - title: "Classic Inner Dress"
-        url: /Craft_with_SmartDoll/Classic-Inner-Dress/
+        url: /craft_with_smartdoll/Classic-Inner-Dress/
 
       - title: "School Outfits"
-        url: /Craft_with_SmartDoll/School-Outfits/
+        url: /craft_with_smartdoll/School-Outfits/
 
       - title: "Sewing Torso"
-        url: /Craft_with_SmartDoll/Sewing-Torso/
+        url: /craft_with_smartdoll/Sewing-Torso/
 
       - title: "Mirai Unboxing"
-        url: /CraftwithSmartDoll/Mirai-Unboxing/
+        url: /craft_with_smartdoll/Mirai-Unboxing/
 
       - title: "Mirai Plush"
-        url: /Mirai-Plush/
+        url: /craft_with_smartdoll/Mirai-Plush/
       
 
 # docs2:
