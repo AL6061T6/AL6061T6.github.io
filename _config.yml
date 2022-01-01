@@ -103,9 +103,9 @@ analytics:
 # Site Author
 author:
   name             : "6061T6"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I sew. I make. I used to draw. I would upload my artworks and making process here."
-  location         : "South Korea"
+  avatar           : "images/bio/bio_small.png"
+  bio              : I love making things and animetic character.<br>Mainly, I make clothing or props for my doll.(Mirai, SmartDoll)<br>I'm looking for the way to earn a living by doing what I like to do, making kawaii things.
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"

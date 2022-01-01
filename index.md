@@ -1,27 +1,22 @@
 ---
-title: "6061T6"
+title: 
 layout: splash
 permalink: /
 hidden: true
 header:
   overlay_image: /images/Index/Header.jpg
+  overlay_color: "#000"
   caption: "This page is made by 6061T6 using Minimal-Mistakes Layout"
 
 excerpt: 
-  High Strength, High Precision High Quality Aluminum Extrusion
-  It's 6061T6
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  #<font color=navy><b>May be earnest wish to the eternal future.</b></font>
 
  
 feature_row:
   - image_path: images/Index/Profile.jpg
     alt: "Profile1"
     title: "<u>6061T6</u>"
-    excerpt: I love making things and animetic character.<br>I'm looking for the way to let making a kawaii things as my job.<br>Mainly, I make clothing or props for my doll(Mirai, SmartDoll) and soemtimes draw. <br> Belows are the details
+    excerpt: I love making things and animetic character.<br>Mainly, I make clothing or props for my doll.(Mirai, SmartDoll)<br>I'm looking for the way to earn a living by doing what I like to do, making kawaii things.
     url: "/Contact/"
     btn_label: "Contact Info."
     btn_class: "btn--info"
@@ -62,13 +57,16 @@ feature_row2:
 
 
 <div style="margin-left:2em; margin-right:2em;">
-<table class="center" style="text-align: center; ">
+<table class="center" style="text-align: center;">
+    <col width="33%">
+    <col width="33%">
+    <col width="33%">
   <tr>
-    <td><img alt="Project_1" src="../images/Index/Project_1.jpg" style="height:30em;border-radius:10px;"/> 
+    <td><img alt="Project_1" src="../images/Index/Project_1.jpg" style="border-radius:10px;"/> 
     <br><b><font size="4"> <a href="/craft_with_smartdoll/School-Outfits/">Mirai Plush & School Outfits</a></font></b> </td>
-    <td><img alt="Project_2" src="../images/Index/Project_2.jpg" style="height:30em;border-radius:10px;" />
+    <td><img alt="Project_2" src="../images/Index/Project_2.jpg" style="border-radius:10px;" />
     <br><b><font size="4"> <a href="/craft_with_smartdoll/Classic-Inner-Dress/"> Classic Inner Dress </a></font></b> </td>
-    <td><img alt="Project_3" src="../images/Index/Project_3.jpg" style="height:30em;border-radius:10px;" />
+    <td><img alt="Project_3" src="../images/Index/Project_3.jpg" style="border-radius:10px;" />
     <br><b><font size="4"> <a href="/craft_with_smartdoll/SnowFlakes-Cape/"> Snow flakes Cpae </a></font></b> </td>
   </tr>
 </table>
@@ -76,10 +74,12 @@ feature_row2:
 
 <div style="margin-left:2em; margin-right:2em;">
 <table class="center" style=" text-align: center;">
+    <col width="50%">
+    <col width="50%">
   <tr>
-    <td><img alt="Project_4" src="../images/Index/Project_4.jpg" style="height:25em; border-radius:10px;"/>
+    <td><img alt="Project_4" src="../images/Index/Project_4.jpg" style="border-radius:10px;"/>
     <br><b><font size="4"> <a href="/craft_with_smartdoll/Attache-Case/"> Attache Case for Mirai </a></font></b> </td>
-    <td><img alt="Project_5" src="../images/Index/Project_5.jpg" style="height:25em; border-radius:10px; "/>
+    <td><img alt="Project_5" src="../images/Index/Project_5.jpg" style="border-radius:10px; "/>
     <br><b><font size="4"> <a href="/craft_with_smartdoll/Wardrobe/"> Closet for Mirai </a></font></b> </td>
   </tr>
 </table>
@@ -90,17 +90,20 @@ feature_row2:
 
 <div style="margin-left:2em; margin-right:2em;">
 <table class="center" style="text-align: center;">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
  <tr>
   <td>
-      <img src="../images/Index/Tool_Blender_Modeling.jpg" style="height:12em; border-radius:10px;">
+      <img src="../images/Index/Tool_Blender_Modeling.jpg" style="border-radius:10px;">
       <b><u><font size=4>Blender</font></u> &nbsp;&nbsp;<br>(3D Modeling & 2D Draft Pattern)</b>
   </td>
   <td>
-      <img src="../images/Index/Tool_Nanocad.jpg" style="height:12em; border-radius:10px;">
+      <img src="../images/Index/Tool_Nanocad.jpg" style="border-radius:10px;">
       <b><u><font size=4>Nanocad5</font></U> &nbsp;&nbsp;<br>(2D Pattern Drawing)</b>
   </td>
   <td>
-      <img src="../images/Index/Tool_Inkstitch.jpg" style="height:12em; border-radius:10px;">
+      <img src="../images/Index/Tool_Inkstitch.jpg" style="border-radius:10px;">
       <b><u><font size=4>Inkstitch</font></U> &nbsp;&nbsp;<br>(Emboridery Pattern)</b>
   </td>
   </tr>
@@ -113,19 +116,22 @@ feature_row2:
 
 <div style="margin-left:2em; margin-right:2em;">
 <table style=" text-align: center;">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
  <tr>
   <td>
-    <img src="../images/Index/Tool_NV180.jpg" style="height:12em;border-radius:10px;">
+    <img src="../images/Index/Tool_NV180.jpg" style="border-radius:10px;">
     <b><u><font size=4> NV-180</font></u></b>
     <br>(Sewing & Emobroidery)
   </td>
   <td>
-    <img src="../images/Index/Tool_snapmaker.jpg" style="height:12em;border-radius:10px;">
+    <img src="../images/Index/Tool_snapmaker.jpg" style="border-radius:10px;">
     <b><u><font size=4> Snapmaker</font></u></b>
     <br>(3Dprinting & LaserCutting)
   </td>
   <td>
-    <img src="../images/Index/Toll_2540D.jpg" style="height:12em;border-radius:10px;">
+    <img src="../images/Index/Toll_2540D.jpg" style="border-radius:10px;">
     <b><u><font size=4>2540D</font></u></b>
     <br>(Overlock & Interlock)
   </td>
@@ -139,19 +145,22 @@ feature_row2:
 
 <div style="margin-left:2em; margin-right:2em;">
 <table class="center" style=" text-align: center;">
+  <col width="33%">
+  <col width="33%">
+  <col width="33%">
  <tr>
   <td>
-    <img src="../images/Index/ETC_draw.jpg" style="height:400px; border-radius:10px;">
+    <img src="../images/Index/ETC_draw.jpg" style=" border-radius:10px;">
     <font size=4>Rarely draw</font>
     <br>(Pixiv #29578542)
   </td>
   <td>
-    <img src="../images/Index/ETC_Plush_2.jpg" style="height:400px;border-radius:10px;">
+    <img src="../images/Index/ETC_Plush_2.jpg" style="border-radius:10px;">
     <font size=4>Vtbuer plushies</font>
     <br>(Natsumi Moe / Comdost Art)
   </td>
   <td>
-    <img src="../images/Index/ETC_Plush.jpg" style="height:400px;border-radius:10px;">
+    <img src="../images/Index/ETC_Plush.jpg" style="border-radius:10px;">
     <font size=4>Vtbuer plushies</font>
     <br>(kson)
   </td>
