@@ -14,7 +14,7 @@ feature_row8:
     alt: "Wardrobe_Thumbnail"
     title: "Wardrobe"
     excerpt: Wardrobe.
-    url: /Craft_with_SmartDoll/Wardrobe/
+    url: /craft_with_smartdoll/Wardrobe/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -23,7 +23,7 @@ feature_row7:
     alt: "Attache_Thumbnail"
     title: "Attache Case"
     excerpt: My own Mirai carry.
-    url: /Craft_with_SmartDoll/Attache-Case/
+    url: /craft_with_smartdoll/Attache-Case/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -32,7 +32,7 @@ feature_row6:
     alt: "Cape_Thumbnail"
     title: "Snowflakes Cape"
     excerpt: Lovely Cape :)
-    url: /Craft_with_SmartDoll/Snowflakes-Cape/
+    url: /craft_with_smartdoll/Snowflakes-Cape/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -41,7 +41,7 @@ feature_row5:
     alt: "Classic_Inner_Dress_Thumbnail"
     title: "Classic Inner Dress"
     excerpt: My style classic dress for Mirai.
-    url: /Craft_with_SmartDoll/Classic-Inner-Dress/
+    url: /craft_with_smartdoll/Classic-Inner-Dress/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -50,7 +50,7 @@ feature_row4:
     alt: "Sailor_Thumbnail"
     title: "School Outfits"
     excerpt: Her mascot outifts.
-    url: /Craft_with_SmartDoll/School-Outfits/
+    url: /craft_with_smartdoll/School-Outfits/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -59,7 +59,7 @@ feature_row3:
     alt: "Sewing_Torso_Thumbnail"
     title: "Sewing_Torso"
     excerpt: Before pattern making.
-    url: /Craft_with_SmartDoll/Sewing-Torso/
+    url: /craft_with_smartdoll/Sewing-Torso/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -68,7 +68,7 @@ feature_row2:
     alt: "Mirai_Unboxing_Thumbnail"
     title: "Mirai Unboxing"
     excerpt: My girl just has arrived.
-    url: /Craft_with_SmartDoll/Mirai-Unboxing/
+    url: /craft_with_smartdoll/Mirai-Unboxing/
     btn_label: "Read"
     btn_class: "btn--success"
 
@@ -77,7 +77,7 @@ feature_row:
     alt: "Mirai_Plush_Thumbnail"
     title: "Mirai Plush"
     excerpt: Ready for welcoming Mirai.
-    url: /Craft_with_SmartDoll/Mirai-Plush/
+    url: /craft_with_smartdoll/Mirai-Plush/
     btn_label: "Read"
     btn_class: "btn--success"
 
