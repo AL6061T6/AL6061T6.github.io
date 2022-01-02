@@ -33,7 +33,7 @@ feature_row6:
     alt: "Cape_Thumbnail"
     title: "Snowflakes Cape"
     excerpt: It start to get cold outside.<br>I'm gonna make lovely cape for her :)
-    url: /craft_with_smartdoll/Snowflakes-Cape/
+    url: /craft_with_smartdoll/SnowFlakes-Cape/
     btn_label: "Read"
     btn_class: "btn--success"
 
