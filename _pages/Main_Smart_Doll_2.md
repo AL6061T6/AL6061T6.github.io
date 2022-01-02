@@ -4,7 +4,8 @@ layout: single
 permalink: /Craft_with_Smart_Doll_2/
 header:
   overlay_image: /images/Index/Header.jpg
-  caption: "This page is made by 6061T6 using Minimal-Mistakes Layout"
+  overlay_filter: 0.5
+  caption: "made by 6061T6"
 sidebar_main: true
 sidebar:
     nav: "docs1"

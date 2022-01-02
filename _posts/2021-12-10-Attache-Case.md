@@ -20,4 +20,5 @@ sidebar:
 
 <img alt="Attache-Case_005" src="/images/2021-12-10-Attache-Case/Attache-Case_005.jpg">
 
+<img alt="Attache-Case_006" src="/images/2021-12-10-Attache-Case/Attache-Case_006.jpg">
 
