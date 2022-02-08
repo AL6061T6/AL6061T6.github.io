@@ -10,6 +10,9 @@ main:
 docs1:
   - title: "Craft with SmartDoll"
     children:
+      - title: "Uma Musume Mirai"
+        url: /craft_with_smartdoll/Uma-Musume-Mirai/
+
       - title: "Wardrobe"
         url: /craft_with_smartdoll/Wardrobe/
 

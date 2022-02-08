@@ -5,10 +5,19 @@ permalink: /Archieve-SmartDoll/
 header:
   overlay_image: /images/Index/Header.jpg
   overlay_filter: 0.5
-  caption: "made by 6061T6"
+  caption: "Pages made by 6061T6"
 sidebar_main: true
 sidebar:
     nav: "docs1"
+
+feature_row9:
+  - image_path: images/Main_Smart_Doll/UmaMusume.jpg
+    alt: "Wardrobe_Thumbnail"
+    title: "Uma Musume Mirai"
+    excerpt: Pretty derby Mirai :)
+    url: /craft_with_smartdoll/Uma-Musume-Mirai/
+    btn_label: "Read"
+    btn_class: "btn--success"
 
 feature_row8:
   - image_path: images/Main_Smart_Doll/Wardrobe.jpg
@@ -87,7 +96,7 @@ feature_row:
 
 
 ---
-
+{% include feature_row id="feature_row9" type="left" %}
 {% include feature_row id="feature_row8" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
 {% include feature_row id="feature_row6" type="left" %}
