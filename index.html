@@ -21,13 +21,16 @@ feature_row:
 ---
 <!-- dash 문자 "---"가 feature row의 끝이란걸 알려주는 거입니다. 없어지면 오류가 나요.-->
 
-{% include feature_row type="left" %}
-
+<html prefix="og: http://ogp.me/ns#" >
+<head>
 <meta property="og:title" content="About Me-AL6061T6" /> 
 <meta property="og:url" content="https://al6061t6.github.io/" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="/images/og_image/og_image_Mirai_2.jpg" /> 
 <meta property="og:description" content="I love making things :)" /> 
+</head>
+
+{% include feature_row type="left" %}
 
 
 <!-- Featrue 정렬을 어떻게 할건지-->
