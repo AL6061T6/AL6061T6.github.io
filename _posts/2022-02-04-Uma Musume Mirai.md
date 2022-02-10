@@ -3,6 +3,7 @@ layout: single
 title: "Uma Musume Mirai"
 categories: "Craft_with_SmartDoll"
 tag: [Doll, Mirai_Suenaga]
+og_image: /images/og_image/og_image_Mirai.jpg
 #toc: #true #true로 시키면 목차가 만들어 집니다.
 author_profile: false #false 시키면 저자 프로파일 사라집니다. true면 켜져요.
 #search: #false #false면 서치기능에서 활용이 안됩니다.
