@@ -2,6 +2,7 @@
 layout: single
 title: "Uma Musume Mirai"
 categories: "Craft_with_SmartDoll"
+comments : true
 tag: [Doll, Mirai_Suenaga]
 og_image: /images/og_image/og_image_Mirai.jpg
 #toc: #true #true로 시키면 목차가 만들어 집니다.
