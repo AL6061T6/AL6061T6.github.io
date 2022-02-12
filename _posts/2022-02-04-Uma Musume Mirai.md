@@ -11,23 +11,10 @@ author_profile: false #false 시키면 저자 프로파일 사라집니다. true
 sidebar:
     nav: "docs1"
 ---
-{% if page.is_post %}
-  {% assign type = "article" %}
-{% else %}
-  {% assign type = "website" %}
-{% endif %}
-  <meta property="og:type" content="{{ type }}" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
-  {% if page.image %}
-  <meta property="og:image" content="/images/og_image/og_image_Mirai.jpg"/>
-  <meta property="og:image:width" content="{{ page.image.width }}" />
-  <meta property="og:image:height" content="{{ page.image.height }}" />
-  {% endif %}
-  {% if page.is_post %}
-  <meta property="og:site_name" content="{{ site.title }}" />
-{% endif %}
+
+<img alt="Uma_Musume_Mirai_0000" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_0000.jpg">
+
+<img alt="Uma_Musume_Mirai_000" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_000.jpg">
 
 <img alt="Uma_Musume_Mirai_001" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_001.jpg">
 
