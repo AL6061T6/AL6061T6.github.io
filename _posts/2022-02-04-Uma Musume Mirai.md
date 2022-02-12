@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Uma Musume Mirai"
+title: 'Uma Musume Mirai'
 categories: "Craft_with_SmartDoll"
 comments : true
 tag: [Doll, Mirai_Suenaga]
