@@ -11,6 +11,23 @@ author_profile: false #false 시키면 저자 프로파일 사라집니다. true
 sidebar:
     nav: "docs1"
 ---
+{% if page.is_post %}
+  {% assign type = "article" %}
+{% else %}
+  {% assign type = "website" %}
+{% endif %}
+  <meta property="og:type" content="{{ type }}" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}" />
+  <meta property="og:image:width" content="{{ page.image.width }}" />
+  <meta property="og:image:height" content="{{ page.image.height }}" />
+  {% endif %}
+  {% if page.is_post %}
+  <meta property="og:site_name" content="{{ site.title }}" />
+{% endif %}
 
 <img alt="Uma_Musume_Mirai_001" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_001.jpg">
 
@@ -30,22 +47,4 @@ sidebar:
 
 <img alt="Uma_Musume_Mirai_009" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_009.jpg">
 
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
-var disqus_config = function () {
-    this.page.url = '<?php echo get_permalink(); ?>';
-    this.page.identifier = '<?php echo dsq_identifier_for_posts($post); ?>'; 
-    };
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://6061craft.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
