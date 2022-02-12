@@ -32,16 +32,7 @@
   {%- assign author_twitter = author.twitter | replace: "@", "" -%}
 {%- endif -%}
 
-{%- assign page_large_image = page.header.og_image | default: "../images/og_image/og_image_Mirai.jpg" | default: page.header.image | absolute_url -%}
-{%- assign page_large_image = page_large_image | escape -%}
-
-{%- assign page_teaser_image = page.header.teaser | default: "../images/og_image/og_image_Mirai.jpg" | absolute_url -%}
-{%- assign page_teaser_image = page_teaser_image | escape -%}
-
-{%- assign site_og_image = site.og_image | absolute_url -%}
-{%- assign site_og_image = site_og_image | escape -%}
-
-<!--{%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image | absolute_url -%}
+{%- assign page_large_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image | absolute_url -%}
 {%- assign page_large_image = page_large_image | escape -%}
 
 {%- assign page_teaser_image = page.header.teaser | default: site.og_image | absolute_url -%}
@@ -49,7 +40,6 @@
 
 {%- assign site_og_image = site.og_image | absolute_url -%}
 {%- assign site_og_image = site_og_image | escape -%}
--->
 
 {%- if page.date -%}
   {%- assign og_type = "article" -%}
@@ -79,8 +69,8 @@
 {% endif %}
 
 {% if page_large_image %}
-  <meta property="og:image" content="{{ page_large_image }}">
-  
+  <meta property="og:image" content="../images/og_image/og_image_Mirai.jpg">
+  <!--{{../images/og_image/og_image_Mirai.jpg| page_large_image }}-->
 {% elsif page_teaser_image %}
   <meta property="og:image" content="{{ page_teaser_image }}">
 {% endif %}
@@ -94,14 +84,14 @@
   <meta name="twitter:url" content="{{ canonical_url }}">
 
   {% if page_large_image %}
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="../images/og_image/og_image_Mirai.jpg">
     <!--"summary_large_image">-->
-    <meta name="twitter:image" content="{{ page_large_image }}">
+    <meta name="twitter:image" content="../images/og_image/og_image_Mirai.jpg">
     <!--"{{ page_large_image }}">-->
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if page_teaser_image %}
-      <meta name="twitter:image" content="{{ page_teaser_image }}">
+      <meta name="twitter:image" content="../images/og_image/og_image_Mirai.jpg">
       <!--"{{ page_teaser_image }}">-->
     {% endif %}
   {% endif %}
