@@ -4,12 +4,10 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
@@ -84,7 +82,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
- og_image                : "https://al6061t6.github.io/images/og_image/og_image_Mirai.jpg"
+ og_image                : /images/og_image/og_image_Mirai.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -285,7 +283,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: false
+      comments: true
       share: true
       related: true
       show_date: true
