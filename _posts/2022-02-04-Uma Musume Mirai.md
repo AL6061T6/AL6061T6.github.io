@@ -2,6 +2,9 @@
 layout: single
 title: 'Uma Musume Mirai'
 categories: "Craft_with_SmartDoll"
+header:
+  image: /images/Index/Header.jpg
+  image_description: "A description of the image"
 comments : true
 tag: [Doll, Mirai_Suenaga]
 og_image: /images/og_image/og_image_Mirai.jpg
