@@ -11,9 +11,11 @@ author_profile: false #false 시키면 저자 프로파일 사라집니다. true
 sidebar:
     nav: "docs1"
 ---
-<meta property="og:image" content="https://al6061t6.github.io/images/og_image/og_image_Mirai.jpg" />
+<meta property="og:image" content="https://al6061t6.github.io/images/og_image/og_image_Mirai.jpg"/>
 
+<img alt="Uma_Musume_Mirai_0000" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_0000.jpg">
 
+<img alt="Uma_Musume_Mirai_000" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_000.jpg">
 
 <img alt="Uma_Musume_Mirai_001" src="/images/2022-02-04-Uma Musume Mirai/Uma_Musume_Mirai_001.jpg">
 
