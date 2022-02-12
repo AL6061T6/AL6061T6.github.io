@@ -57,7 +57,6 @@
   {% endif %}
 {% endif %}
 
-<!--페이스북 시작-->
 <meta property="og:type" content="{{ og_type }}">
 <meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en_US" }}">
 <meta property="og:site_name" content="{{ site.title }}">
@@ -74,9 +73,7 @@
 {% elsif page_teaser_image %}
   <meta property="og:image" content="{{ page_teaser_image }}">
 {% endif %}
-<!--페이스북  끝-->
 
-<!--트위터 시작-->
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
   <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
@@ -84,15 +81,12 @@
   <meta name="twitter:url" content="{{ canonical_url }}">
 
   {% if page_large_image %}
-    <meta name="twitter:card" content="../images/og_image/og_image_Mirai.jpg">
-    <!--"summary_large_image">-->
-    <meta name="twitter:image" content="../images/og_image/og_image_Mirai.jpg">
-    <!--"{{ page_large_image }}">-->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ page_large_image }}">
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if page_teaser_image %}
-      <meta name="twitter:image" content="../images/og_image/og_image_Mirai.jpg">
-      <!--"{{ page_teaser_image }}">-->
+      <meta name="twitter:image" content="{{ page_teaser_image }}">
     {% endif %}
   {% endif %}
 
