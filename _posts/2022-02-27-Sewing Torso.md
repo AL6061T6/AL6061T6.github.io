@@ -14,7 +14,7 @@ og_image: /images/og_image/og_image_Mirai.jpg
     <font size="5">This is Blender model I use for 3d pattern making of SmartDoll.<br>
     You can use this modeling for you any purpose except reselling and reuploading this pattern.<br>
     Please send your Instagram URL to me if you want to share your works here :) <br>
-    <a href="https://www.instagram.com/t6_6061/"> <img src="/images/2022-02-27-SewingTorso/Insta.jpg" width="25" height ="25"></a>  <a href="https://www.instagram.com/t6_6061/">(Send DM to 6061T6)</a></font></td>
+    <a href="https://www.instagram.com/t6_6061/"> <img src="/images/2022-02-27-SewingTorso/insta.jpg" width="25" height ="25"></a>  <a href="https://www.instagram.com/t6_6061/">(Send DM to 6061T6)</a></font></td>
   </tr>
   <tr style="vertical-align: top">
   <td style="text-align: center;"> <a href="/Library/SewingTorso/(6061T6)SewingTorso_Distribution.blend" donwload> <img src="/images/2022-02-27-ClassicDress/Blender.jpg"><br><font size="5">Blender 3D</font></a></td>
