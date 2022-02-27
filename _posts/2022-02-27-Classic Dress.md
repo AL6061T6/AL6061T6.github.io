@@ -12,7 +12,7 @@ og_image: /images/og_image/og_image_Mirai.jpg
     <br><b><font size="5em">  See Archive </font></b> </a></td>
     <td colspan="5"> <font size="6em" color="#2F7D95"> <b> Classic Dress Pattern</b></font> <br>
     <font size="5">You can use this pattern for you any purpose except reselling and reuploading this pattern.<br>
-    Please send your Instagram URL if you want to share your works here :) <br>
+    Please send your Instagram URL if you want to share your works here. :) <br>
     <a href="https://www.instagram.com/t6_6061/"> <img src="/images/2022-02-27-ClassicDress/insta.jpg" width="25" height ="25">(Send DM to 6061T6)</a></font></td>
   </tr>
   <tr style="vertical-align: top;">
