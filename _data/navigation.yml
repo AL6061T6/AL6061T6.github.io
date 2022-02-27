@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Smart Doll"
-    url: /Archieve-SmartDoll/
+  - title: "Archive"
+    url: /Archive-SmartDoll/
+  - title: "Library"
+    url: /Library/
   - title: "Contact"
     url: /Contact/
   - title: "Search"
@@ -38,17 +40,11 @@ docs1:
         url: /craft_with_smartdoll/Mirai-Plush/
       
 
-# docs2:
-#   - title: "How to make"
-#     children:
-#       - title: "Smart Doll Torso(Soon After)"
-#         url: /test_Category/
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+docs2:
+  - title: "Library"
+    children:
+      - title: "Classic Dress"
+        url: /test_Category/
+      - title: "SewingTorso"
+        url: /year-archive/
+  

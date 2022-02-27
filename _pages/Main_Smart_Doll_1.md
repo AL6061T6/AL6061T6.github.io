@@ -1,7 +1,7 @@
 ---
 title: "Archive_SmartDoll"
 layout: single
-permalink: /Archieve-SmartDoll/
+permalink: /Archive-SmartDoll/
 header:
   overlay_image: /images/Index/Header.jpg
   overlay_filter: 0.5
