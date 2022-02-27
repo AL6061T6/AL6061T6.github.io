@@ -8,19 +8,19 @@ og_image: /images/og_image/og_image_Mirai.jpg
 ---
 <table class="center" style="text-align: left;" >
   <tr>
-    <td  rowspan='2' style="vertical-align: top;text-align: center;"><img alt="ClassicDRess" src="/images/2022-02-27-ClassicDress/ClassicDress_Library.jpg" style="border-radius:10px;" />
-    <br><b><font size="4"> <a href="/craft_with_smartdoll/Classic-Inner-Dress/"> See Archive </a></font></b> </td>
-    <td colspan='5'> <font size="6" color="#2F7D95"> <b> Classic Dress Pattern</b></font> <br>
+    <td rowspan="2" style="vertical-align: top;text-align: center;"><a href="/craft_with_smartdoll/Classic-Inner-Dress/"><img alt="ClassicDRess" src="/images/2022-02-27-ClassicDress/ClassicDress_Library.jpg" style="border-radius:10px;" />
+    <br><b><font size="5em">  See Archive </font></b> </a></td>
+    <td colspan="5"> <font size="6em" color="#2F7D95"> <b> Classic Dress Pattern</b></font> <br>
     <font size="5">You can use this pattern for you any purpose except reselling and reuploading this pattern.<br>
     Please send your Instagram URL if you want to share your works here :) <br>
     <a href="https://www.instagram.com/t6_6061/"> <img src="/images/2022-02-27-ClassicDress/insta.jpg" width="25" height ="25">(Send DM to 6061T6)</a></font></td>
   </tr>
-  <tr style="vertical-align: top">
-  <td style="text-align: center;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribtuion_ForSmartDoll_Blender.blend" donwload> <img src="/images/2022-02-27-ClassicDress/Blender.jpg"><br><font size="5">Blender 3D</font></a></td>
-  <td style="text-align: center;"><a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribution_ForSmartDoll_Nanocad5.0.dwg" donwload><img src="/images/2022-02-27-ClassicDress/Nanocad.jpg"><br><font size="5">Nanocad5.0 dwg</font></a></td>
-  <td style="text-align: center;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribution_ForSmartDoll_dxf.dxf" donwload> <img src="/images/2022-02-27-ClassicDress/DXF.jpg"><br><font size="5">DXF_R27</font></a></td>
-  <td style="text-align: center;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribution_ForSmartDoll_pdf.zip" donwload> <img src="/images/2022-02-27-ClassicDress/PDF.jpg"><br><font size="5">PDF</font></a></td>
-  <td style="text-align: center;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribtuion_ForSmartDoll.zip" donwload> <img src="/images/2022-02-27-ClassicDress/ZIP.jpg"><br><font size="5">All of them</font></a> </td>
+  <tr style="vertical-align: top;">
+  <td style="text-align: center; width=20%;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribtuion_ForSmartDoll_Blender.blend" donwload> <img src="/images/2022-02-27-ClassicDress/Blender.jpg"><br>Blender 3D</a></td>
+  <td style="text-align: center;width=20%; "><a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribution_ForSmartDoll_Nanocad5.0.dwg" donwload><img src="/images/2022-02-27-ClassicDress/Nanocad.jpg"><br>Nanocad5.0 dwg</a></td>
+  <td style="text-align: center;width=20%;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribution_ForSmartDoll_dxf.dxf" donwload> <img src="/images/2022-02-27-ClassicDress/DXF.jpg"><br>DXF_R27</a></td>
+  <td style="text-align: center;width=20%;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribution_ForSmartDoll_pdf.zip" donwload> <img src="/images/2022-02-27-ClassicDress/PDF.jpg"><br>PDF</a></td>
+  <td style="text-align: center;width=20%;"> <a href="/Library/ClassicDress/(6061T6)ClassicDress_Distribtuion_ForSmartDoll.zip" donwload> <img src="/images/2022-02-27-ClassicDress/ZIP.jpg"><br>All of them</a> </td>
   </tr>
 </table>
 
