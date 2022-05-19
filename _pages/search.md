@@ -2,8 +2,8 @@
 title: "Search"
 layout: search
 header:
-  overlay_image: /images/Index/Header.jpg
+  overlay_image: /images/Index/Header_Test.png
   overlay_filter: 0.5
-  caption: "Pages made by 6061T6"
+  caption:
 permalink: /search/
 ---

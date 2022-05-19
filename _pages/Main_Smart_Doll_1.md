@@ -3,9 +3,8 @@ title: "Archive_SmartDoll"
 layout: single
 permalink: /Archive-SmartDoll/
 header:
-  overlay_image: /images/Index/Header.jpg
+  overlay_image: /images/Index/Header_Test.png
   overlay_filter: 0.5
-  caption: "Pages made by 6061T6"
 sidebar_main: true
 sidebar:
     nav: "docs1"

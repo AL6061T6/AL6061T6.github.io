@@ -3,9 +3,8 @@ title: "Craft with SmartDoll 2"
 layout: single
 permalink: /Craft_with_Smart_Doll_2/
 header:
-  overlay_image: /images/Index/Header.jpg
+  overlay_image: caption: "Pages made by 6061T6"
   overlay_filter: 0.5
-  caption: "made by 6061T6"
 sidebar_main: true
 sidebar:
     nav: "docs1"
