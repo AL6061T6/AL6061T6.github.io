@@ -17,10 +17,12 @@ og_image: /images/og_image/og_image_Mirai.jpg
     <a href="https://www.instagram.com/t6_6061/"> <img src="/images/2022-02-27-SewingTorso/insta.jpg" width="25" height ="25"></a>  <a href="https://www.instagram.com/t6_6061/">(Send DM to 6061T6)</a></font></td>
   </tr>
   <tr style="vertical-align: top">
-  <td style="text-align: center;"> <a href="/Library/SportsBra/(6061T6)SportsBra.pdf" donwload> <img src="/images/2022-05-19-SportsBra/PDF.jpg"><br><font size="5">PDF</font></a></td>
+  <td style="text-align: center;"> <a href="/Library/SportsBra/[6061T6]SportsBra_ForSmartDoll_pdf.zip" donwload> <img src="/images/2022-05-19-SportsBra/PDF.jpg"><br><font size="5">PDF</font></a></td>
   </tr>
 </table>
 
 <font size="6" color="#2F7D95"> <b>Making Video</b> <br></font><font size="2">
 </font>
+
+{% include video id="VcKhNWqyz7g" provider="youtube" %}
 
