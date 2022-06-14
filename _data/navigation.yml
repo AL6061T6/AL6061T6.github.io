@@ -12,6 +12,12 @@ main:
 docs1:
   - title: "Craft with SmartDoll"
     children:
+      - title: "Sports Wear"
+        url: /craft_with_smartdoll/Sports-Wear/
+
+      - title: "Blouse"
+        url: /craft_with_smartdoll/Blouse/
+
       - title: "Uma Musume Mirai"
         url: /craft_with_smartdoll/Uma-Musume-Mirai/
 

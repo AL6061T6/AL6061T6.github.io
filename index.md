@@ -18,7 +18,17 @@ feature_row:
     btn_label: "Check Archive."
     btn_class: "btn--info"
 
-Arc_1:
+Arc_3:
+  - url: /craft_with_smartdoll/Sports-Wear/
+    image_path: ../images/Index/Project_8.jpg
+    alt: "Sports Wear"
+    title: "Sports Wear"
+  - url: /craft_with_smartdoll/Blouse/
+    image_path: ../images/Index/Project_7.jpg
+    alt: "Blouse"
+    title: "Blouse and Skirt"
+
+Arc_2:
   - url: /craft_with_smartdoll/Uma-Musume-Mirai/
     image_path: ../images/Index/Project_6.jpg
     alt: "Uma-Musume-Mirai"
@@ -32,7 +42,7 @@ Arc_1:
     alt: "Classic Inner Dress"
     title: "Classic Inner Dress"
 
-Arc_2:
+Arc_1:
   - url: /craft_with_smartdoll/SnowFlakes-Cape/
     image_path: ../images/Index/Project_3_square.jpg
     alt: "SnowFlakes Cape"
@@ -65,14 +75,15 @@ Just an ordinary guy who wants to live doing what he likes.
 <a href="/Archive-SmartDoll/" class="btn btn--info btn--large"> Check Archive.</a>
 {: .text-center}
 
-{% include gallery id="Arc_1" %}
+{% include gallery id="Arc_3" %}
 {% include gallery id="Arc_2" %}
+{% include gallery id="Arc_1" %}
 
-
+<!--
 <Br>
 
 <div style="text-align:center">
-<!--
+
 <hr style="border: dashed 1px rgb(173, 173, 173)">
 <div>
 <h1> &lt;Career&gt; </h1>
