@@ -9,9 +9,27 @@ sidebar_main: true
 sidebar:
     nav: "docs1"
 
+feature_row11:
+  - image_path: images/Main_Smart_Doll/SportsWear.jpg
+    alt: "SportsWear_Thumbnail"
+    title: "Sports Wear"
+    excerpt: It's her training wear :)
+    url: /craft_with_smartdoll/Sports-Wear/
+    btn_label: "Read"
+    btn_class: "btn--success"
+
+feature_row10:
+  - image_path: images/Main_Smart_Doll/Blouse.jpg
+    alt: "Blouse_Thumbnail"
+    title: "Blouse"
+    excerpt: Blouse & Simple skirt
+    url: /craft_with_smartdoll/Blouse/
+    btn_label: "Read"
+    btn_class: "btn--success"
+
 feature_row9:
   - image_path: images/Main_Smart_Doll/UmaMusume.jpg
-    alt: "Wardrobe_Thumbnail"
+    alt: "Umamusume_Thumbnail"
     title: "Uma Musume Mirai"
     excerpt: Pretty derby Mirai :)
     url: /craft_with_smartdoll/Uma-Musume-Mirai/
@@ -95,6 +113,8 @@ feature_row:
 
 
 ---
+{% include feature_row id="feature_row11" type="left" %}
+{% include feature_row id="feature_row10" type="left" %}
 {% include feature_row id="feature_row9" type="left" %}
 {% include feature_row id="feature_row8" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
